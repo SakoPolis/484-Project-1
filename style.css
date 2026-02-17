@@ -31,6 +31,6 @@ nav{
 footer{
  position: absolute;
  bottom: 0;
- <!-- the schenanigans recquired to avoid using the deprecated center tag -->
+ /*the schenanigans recquired to avoid using the deprecated center tag*/
  width: 99%;
 }
