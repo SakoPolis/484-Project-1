@@ -1,0 +1,21 @@
+h1 {
+margin: 10;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background: #a6dba4;
+color: #1d141f
+}
+
+body {
+    margin: 5;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #b0aeff;
+    color: #14271d;
+}
+
+code {
+    color: #000
+}
+
+tt {
+    color: #000
+}
